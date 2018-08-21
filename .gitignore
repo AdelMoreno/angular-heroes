@@ -37,3 +37,15 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+.DS_Store
+/.sync-config.cson
+/.idea
+/node_modules
+/vendor
+/src/**/*.js
+/src/**/*.js.map
+/public_html/dist
+/public_html/index.html
+/npm-debug.log
+/webpack/target.js
